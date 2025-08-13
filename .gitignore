@@ -1,3 +1,7 @@
+# Node modules
 node_modules/
-.env
-dist/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment files
+backend/.env
